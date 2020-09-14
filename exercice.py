@@ -5,7 +5,7 @@
 import math
 
 def square_root(a: float) -> float:
-    
+
     return math.sqrt(a)
 
 def square(a: float) -> float:
@@ -13,7 +13,7 @@ def square(a: float) -> float:
 
 2**2¨a
 def average(a: float, b: float, c: float) -> float:
-    return 0.0
+    return 
 
 3/()c+b+a
 def to_radians(angle_degs: float, angle_mins: float, angle_secs: float) -> float:
