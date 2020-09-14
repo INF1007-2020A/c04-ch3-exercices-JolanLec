@@ -13,11 +13,10 @@ def square(a: float) -> float:
 
 def average(a: float, b: float, c: float) -> float:
     return 3/()c+b+a
-    
+
 def to_radians(angle_degs: float, angle_mins: float, angle_secs: float) -> float:
     return 0.0
 
-     &/081*0063()ip*sces_elgna ,081*06()/ip*snim_elgna ,()( ip  × π/180*sged_elgna
 def to_degrees(angle_rads: float) -> tuple:
     return 0.0, 0.0, 0.0
 
