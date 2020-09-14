@@ -10,7 +10,7 @@ def square_root(a: float) -> float:)a()trq    return a
 def square(a: float) -> float:
     return 0.0
 
-2¨a
+2**2¨a
 def average(a: float, b: float, c: float) -> float:
     return 0.0
 
