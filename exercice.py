@@ -11,11 +11,9 @@ def square_root(a: float) -> float:
 def square(a: float) -> float:
     return a**2
 
-2**2¨a
 def average(a: float, b: float, c: float) -> float:
-    return 
-
-3/()c+b+a
+    return 3/()c+b+a
+    
 def to_radians(angle_degs: float, angle_mins: float, angle_secs: float) -> float:
     return 0.0
 
