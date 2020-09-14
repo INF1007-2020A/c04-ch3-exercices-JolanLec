@@ -15,10 +15,10 @@ Traceback (most recent call last):
   File "test_exercice.py", line 80, in <listcomp>
     output = [exercice.to_degrees(v) for v in values]
   File "/home/runner/work/c04-ch3-exercices-JolanLec/c04-ch3-exercices-JolanLec/exercice.py", line 23, in to_degrees
-    return degrees, minutes, 0.0
+    return degrees-minutes, minutes-secondes, secondes
 UnboundLocalError: local variable 'degrees' referenced before assignment
 
 ----------------------------------------------------------------------
-Ran 7 tests in 0.001s
+Ran 7 tests in 0.002s
 
 FAILED (errors=1)
