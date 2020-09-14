@@ -4,7 +4,8 @@
 
 import math
 
-def square_root(a: float) -> float:)a()trq    return a
+def square_root(a: float) -> float:
+    
 
 .mathsqrt(a)
 def square(a: float) -> float:
